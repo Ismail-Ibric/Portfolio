@@ -1,0 +1,190 @@
+{
+  "main": {
+    "name": "Ismail Ibric",
+    "occupation": "Software Developer",
+    "description": "Learning new languages and technologies is my goal",
+    "image": "Izzy.jpg",
+    "bio": "I'm Ismail Ibric (aka Izzy). I look to support the company's objectives and meet development needs. Work with team members to complete projects in a timely manner. Displaying professionalism while working under deadlines. A thoughtful and pragmatic individual looking to further enhance my knowledge and experience.",
+    "contactmessage": "Get in touch to learn more about me!",
+    "email": "iibric@yahoo.com",
+    "phone": "747-279-8143",
+    "address": {
+      "street": "918 E 14th St.",
+      "city": "Brooklyn",
+      "state": "New York",
+      "zip": "11230"
+    },
+    "website": "https://izzys.work/",
+    "resumedownload": "/files/Ismail_Ibric_Resume.docx",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ismail-ibric",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Ismail-Ibric",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "DeVry University - Long Islan City, NY",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2007",
+        "description": "Managed a 4.0 GPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "IzzySoft.com - Los Angeles, CA",
+        "title": "Founder and CEO",
+        "years": "Jun 2013 - Present",
+        "description": [
+          "",
+          "Designed/Developed an e-shop in ASP.Net (MyBigDeal.com) using CSS and JavaScript for the UI, with MS SQL Server & IIS on the back-end.",
+          "Designed/Developed a Unity3D user interface plugin (kissUI) in C#, that makes it easy for users to design whole UI’s, on all platforms. https://assetstore.unity.com/packages/tools/gui/kissui-35795",
+          "Designed/Developed a Text-to-Speech Windows desktop application in C# that reads text aloud that is copied to the Clipboard."
+        ]
+      },
+      {
+        "company": "C.R. Laurence Co. Inc. - Vernon, CA",
+        "title": "Software Developer",
+        "years": "Mar 2012 - Jul 2013",
+        "description": [
+          "Designed/Developed a web application called iTandem that used jQuery, AJAX, ASP.Net, C#, WebServices, WebHandlers, MS SQL Server 2005/2008, HP SQL Server MX, JSON, DHTML, CSS.",
+          "Maintained existing projects, MS SQL Transactions, ASP.Net, C#."
+        ]
+      },
+      {
+        "company": "RVM Enterprises Inc. - New York, NY",
+        "title": "Software Developer",
+        "years": "Oct 2005 - Nov 2010",
+        "description": [
+          "Designed/Developed in-house applications for use in Electronic Data Discovery for Litigation Support.",
+          "Designed/Developed a new File Recognition library.",
+          "Designed/Developed a new Embedded Document Extraction library from Adobe PDF, MS RTF, and MS Office 2003/07 formats.",
+          "Support for already existing Document Imaging applications, some using advanced MS Office OLE Automation."
+        ]
+      },
+      {
+        "company": "Infinite Energy Inc. - Gainesville, FL",
+        "title": "Software Developer",
+        "years": "Oct 2004 - Feb 2005",
+        "description": [
+          "Worked on MS SQL and Reports which were used for printing out Checks for the creation of Billing Receipts."
+        ]
+      }
+    ],
+    "skillmessage": "My Programming Language Proficiency",
+    "skills": [
+      {
+        "name": "React.JS",
+        "years": "2.5",
+        "last": "2021"
+      },
+      {
+        "name": "React Native",
+        "years": "1",
+        "last": "2021"
+      },
+      {
+        "name": "Git",
+        "years": "1.5",
+        "last": "2021"
+      },
+      {
+        "name": "JavaScript",
+        "years": "16",
+        "last": "2021"
+      },
+      {
+        "name": "C#",
+        "years": "16",
+        "last": "2021"
+      },
+      {
+        "name": "HTML/CSS",
+        "years": "19",
+        "last": "2021"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "name": "AirBed",
+        "using": "React JS, Next JS, Tailwind CSS, MapBox",
+        "category": "React JS",
+        "image": "airbnb.png",
+        "url": "https://youtu.be/1kGISk5ft2w",
+        "misc": [
+          {
+            "label": "Code:",
+            "content": "Get the source here",
+            "url": "https://github.com/Ismail-Ibric/AirBed"
+          },
+          {
+            "label": "Live Demo:",
+            "content": "Visit Site",
+            "url": "https://airbed.izzys.work"
+          }
+        ]
+      },
+      {
+        "name": "Amazon Clone",
+        "using": "React JS, FireBase Host/Auth, FireStore DB, Stripe payments",
+        "category": "React JS",
+        "image": "amazon.png",
+        "url": "https://youtu.be/b7nrXjS6Dqs",
+        "misc": [
+          {
+            "label": "Code:",
+            "content": "Get the source here",
+            "url": "https://github.com/Ismail-Ibric/amazon"
+          },
+          {
+            "label": "Live Demo:",
+            "content": "Visit Site",
+            "contBonus": "user: demo@demo.com, pass: demo123",
+            "url": "https://amazon.izzys.work"
+          }
+        ]
+      },
+      {
+        "name": "kissUI",
+        "using": ".NET, C#, Unity 3D",
+        "category": "Unity 3D",
+        "image": "kissUI.webp",
+        "url": "https://youtu.be/QaYts9sPmcY",
+        "misc": [
+          {
+            "label": "Package",
+            "content": "Download kissUI from Unity 3D site",
+            "url": "https://assetstore.unity.com/packages/tools/gui/kissui-35795"
+          },
+          {
+            "label": "Preview",
+            "content": "Watch Feature video",
+            "url": "https://youtu.be/YKjIKwSG1IM"
+          }
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "KissUI",
+        "user": "...user testomony ..."
+      },
+      {
+        "text": "Misc",
+        "user": "...user testimony..."
+      }
+    ]
+  }
+}
