@@ -24,6 +24,7 @@ jobs:
           headers: '{ "Content-Type": "application/json" }'
           method: 'POST'
           accept: 201
+          timeout: 12000
           body: '{ "process": "rebuild", "project": "Portfolio" }'
       - name: 'Use response'
         run: echo ${{ steps.api.outputs.response }}
