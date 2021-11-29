@@ -136,7 +136,7 @@
       },
       {
         "name": "reAction",
-        "using": "Node JS, TypeScript, Express JS",
+        "using": "Node JS, TypeScript, Express JS, GitHub CLI",
         "category": "Node JS",
         "image": "reAction.png",
         "url": "",
@@ -145,6 +145,11 @@
             "label": "Code:",
             "content": "Get the source here",
             "url": "https://github.com/Ismail-Ibric/reAction"
+          },
+          {
+            "label": "Preview:",
+            "content": "My Portfolio Site",
+            "url": "https://izzys.work"
           }
         ]
       },
