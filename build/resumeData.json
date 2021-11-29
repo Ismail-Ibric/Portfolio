@@ -117,6 +117,7 @@
     "projects": [
       {
         "name": "AirBed",
+        "desc": "",
         "using": "React JS, Next JS, Tailwind CSS, MapBox",
         "category": "React JS",
         "image": "airbnb.png",
@@ -136,7 +137,8 @@
       },
       {
         "name": "reAction",
-        "using": "Node JS, TypeScript, Express JS",
+        "desc": "",
+        "using": "Node JS, TypeScript, Express JS, GitHub CLI",
         "category": "Node JS",
         "image": "reAction.png",
         "url": "",
@@ -145,11 +147,17 @@
             "label": "Code:",
             "content": "Get the source here",
             "url": "https://github.com/Ismail-Ibric/reAction"
+          },
+          {
+            "label": "Preview:",
+            "content": "My Portfolio Site",
+            "url": "https://izzys.work"
           }
         ]
       },
       {
         "name": "Amazon Clone",
+        "desc": "",
         "using": "React JS, FireBase Host/Auth, FireStore DB, Stripe payments",
         "category": "React JS",
         "image": "amazon.png",
@@ -170,6 +178,7 @@
       },
       {
         "name": "kissUI",
+        "desc": "",
         "using": ".NET, C#, Unity 3D",
         "category": "Unity 3D",
         "image": "kissUI.webp",

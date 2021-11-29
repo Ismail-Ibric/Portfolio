@@ -117,6 +117,7 @@
     "projects": [
       {
         "name": "AirBed",
+        "desc": "",
         "using": "React JS, Next JS, Tailwind CSS, MapBox",
         "category": "React JS",
         "image": "airbnb.png",
@@ -136,6 +137,7 @@
       },
       {
         "name": "reAction",
+        "desc": "",
         "using": "Node JS, TypeScript, Express JS, GitHub CLI",
         "category": "Node JS",
         "image": "reAction.png",
@@ -155,6 +157,7 @@
       },
       {
         "name": "Amazon Clone",
+        "desc": "",
         "using": "React JS, FireBase Host/Auth, FireStore DB, Stripe payments",
         "category": "React JS",
         "image": "amazon.png",
@@ -175,6 +178,7 @@
       },
       {
         "name": "kissUI",
+        "desc": "",
         "using": ".NET, C#, Unity 3D",
         "category": "Unity 3D",
         "image": "kissUI.webp",
