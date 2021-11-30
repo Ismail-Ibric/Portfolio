@@ -136,9 +136,9 @@
         ]
       },
       {
-        "name": "reAction (GitHub Action handler)",
+        "name": "reAction REST API (GitHub Action handler)",
         "desc": "",
-        "using": "Node JS, REST API, TypeScript, Express JS, GitHub CLI",
+        "using": "Node JS, TypeScript, Express JS, GitHub CLI",
         "category": "Node JS",
         "image": "reAction.png",
         "url": "",
