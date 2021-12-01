@@ -13,6 +13,7 @@ React.js
   - Fetch used to get JSON data to populate all sections
   - useState() hook used for states
   - useEffect() hook used for loading data
+  - Live SASS / SCSS traspiling plugin in VSCode
 
 GitHub Actions
   -
