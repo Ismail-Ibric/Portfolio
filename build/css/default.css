@@ -802,6 +802,12 @@ properly.
 	text-align: center !important;
 }
 
+.submit {
+  background-color: black;
+  border-radius: 5px;
+  padding: 20px;
+}
+
 .skill-name {
   font-size: larger;
   font-weight: 600;

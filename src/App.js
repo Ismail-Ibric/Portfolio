@@ -8,8 +8,6 @@ import Contact from "./Components/Contact";
 // import Testimonials from "./Components/Testimonials";
 import Portfolio from "./Components/Portfolio";
 
-import "./App.css";
-
 const App = () => {
   const [resumeData, setResumeData] = useState({});
 
